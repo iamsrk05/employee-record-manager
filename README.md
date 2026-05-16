@@ -20,7 +20,7 @@ A beginner-level employee record management and reporting project developed usin
 - Git & GitHub
 
 
-**Main folders and files:**
+**Folder Structure:**
 
 - `data/`
   - `employee_records.xlsx`
