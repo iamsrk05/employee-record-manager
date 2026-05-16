@@ -1,0 +1,38 @@
+oilName,usageDescription,Country,quantity,exportCompanyName,exportDate,CompanyAbbreviation,Country ,Companies,Start Date,End Date
+Gasoline,Motor gasoline for internal combustion engines,Australia,650000,AUS Energy Pty,05/11/2025,AEP,Australia,AUS Energy Pty,05/11/2025,15/12/2025
+Gasoline,Motor gasoline for internal combustion engines,Norway,680000,Norway Oil Export,11/11/2025,NEP,China,"China Petro Export, Sino Export Ltd",06/11/2025,09/12/2025
+Gasoline,Motor gasoline for internal combustion engines,Turkey,690000,Turkish Energy A.S.,17/11/2025,TEP,Japan,Japan Oil Trading,07/11/2025,10/12/2025
+Gasoline,Motor gasoline for internal combustion engines,Jordan,640000,Jordan Petroleum Co,23/11/2025,JEP,Jordan,Jordan Petroleum Co,09/11/2025,12/12/2025
+Gasoline,Motor gasoline for internal combustion engines,South Korea,670000,Korea Energy Corp,04/12/2025,KEP,Norway,"Norway Oil Export, China Petro Export",11/11/2025,20/12/2025
+Gasoline,Motor gasoline for internal combustion engines,Japan,660000,Japan Oil Trading,10/12/2025,JEP,South Korea,Korea Energy Corp,08/11/2025,11/12/2025
+Diesel,Heavy-duty vehicles and heating,China,720000,China Petro Export,06/11/2025,CEP,Turkey,,#REF!,#REF!
+Diesel,Heavy-duty vehicles and heating,Australia,700000,AUS Energy Pty,12/11/2025,AEP,,,,
+Diesel,Heavy-duty vehicles and heating,Norway,740000,Norway Oil Export,18/11/2025,NEP,,,,
+Diesel,Heavy-duty vehicles and heating,Turkey,710000,Turkish Energy A.S.,24/11/2025,TEP,,,,
+Diesel,Heavy-duty vehicles and heating,Jordan,730000,Jordan Petroleum Co,05/12/2025,JEP,,,,
+Diesel,Heavy-duty vehicles and heating,South Korea,720000,Korea Energy Corp,11/12/2025,KEP,,,,
+Jet Fuel,Aviation kerosene fuel,Norway,710299,China Petro Export,20/12/2025,CEP,,,,
+Jet Fuel,Aviation kerosene fuel,Japan,500000,Japan Oil Trading,07/11/2025,JEP,,,,
+Jet Fuel,Aviation kerosene fuel,China,520000,Sino Export Ltd,13/11/2025,SEP,,,,
+Jet Fuel,Aviation kerosene fuel,Australia,560000,AUS Energy Pty,19/11/2025,AEP,,,,
+Jet Fuel,Aviation kerosene fuel,Norway,530000,Norway Oil Export,25/11/2025,NEP,,,,
+Jet Fuel,Aviation kerosene fuel,Turkey,540000,Turkish Energy A.S.,06/12/2025,TEP,,,,
+Jet Fuel,Aviation kerosene fuel,Jordan,550000,Jordan Petroleum Co,12/12/2025,JEP,,,,
+Heating Oil,Residential and industrial heating,South Korea,810000,Korea Energy Corp,08/11/2025,KEP,,,,
+Heating Oil,Residential and industrial heating,Japan,830000,Japan Oil Trading,14/11/2025,JEP,,,,
+Heating Oil,Residential and industrial heating,China,820000,China Petro Export,20/11/2025,CEP,,,,
+Heating Oil,Residential and industrial heating,Australia,850000,AUS Energy Pty,01/12/2025,AEP,,,,
+Heating Oil,Residential and industrial heating,Norway,860000,Norway Oil Export,07/12/2025,NEP,,,,
+Heating Oil,Residential and industrial heating,Turkey,840000,Turkish Energy A.S.,13/12/2025,TEP,,,,
+LPG,Liquefied petroleum gas – propane and butane,Jordan,600000,Jordan Petroleum Co,09/11/2025,JEP,,,,
+LPG,Liquefied petroleum gas – propane and butane,South Korea,610000,Korea Energy Corp,15/11/2025,KEP,,,,
+LPG,Liquefied petroleum gas – propane and butane,Japan,590000,Japan Oil Trading,21/11/2025,JEP,,,,
+LPG,Liquefied petroleum gas – propane and butane,China,620000,Sino Export Ltd,02/12/2025,SEP,,,,
+LPG,Liquefied petroleum gas – propane and butane,Australia,600000,AUS Energy Pty,08/12/2025,AEP,,,,
+LPG,Liquefied petroleum gas – propane and butane,Norway,610000,Norway Oil Export,14/12/2025,NEP,,,,
+Refinery Gas,Used within refinery process,Turkey,750000,Turkish Energy A.S.,10/11/2025,TEP,,,,
+Refinery Gas,Used within refinery process,Jordan,770000,Jordan Petroleum Co,16/11/2025,JEP,,,,
+Refinery Gas,Used within refinery process,South Korea,760000,Korea Energy Corp,22/11/2025,KEP,,,,
+Refinery Gas,Used within refinery process,Japan,780000,Japan Oil Trading,03/12/2025,JEP,,,,
+Refinery Gas,Used within refinery process,China,790000,China Petro Export,09/12/2025,CEP,,,,
+Refinery Gas,Used within refinery process,Australia,800000,AUS Energy Pty,15/12/2025,AEP,,,,
