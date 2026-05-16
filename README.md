@@ -16,7 +16,6 @@ A beginner-level employee record management and reporting project developed usin
 - Python
 - Microsoft Excel
 - SQL
-- Pandas
 - Git & GitHub
 
 
@@ -64,6 +63,3 @@ A beginner-level employee record management and reporting project developed usin
 - Excel analysis screenshots
 - SQL query screenshots
 
-## CV Description
-
-Built an Employee Record Management System using Python, Excel, and SQL for organizing employee records, generating reports, and managing datasets efficiently. Developed spreadsheet analysis workflows and uploaded the full project with documentation and screenshots to GitHub.
