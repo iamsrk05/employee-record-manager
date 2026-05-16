@@ -20,32 +20,31 @@ A beginner-level employee record management and reporting project developed usin
 - Git & GitHub
 
 
-## Folder Structure
-employee-record-manager/
-│
-├── data/
-│   ├── employee_records.xlsx
-│   ├── employee_records.csv
-│   ├── weekly_export_report.xlsx
-│   ├── weekly_export_report.csv
-│   ├── daily_production_report.xlsx
-│   └── daily_production_report.csv
-│
-├── sql/
-│   └── oil_company_database.sql
-│
-├── screenshots/
-│   ├── excel/
-│   └── sql/
-│
-├── docs/
-│   ├── project_report.docx
-│   └── presentation_script.docx
-│
-├── employee_manager.py
-├── requirements.txt
-├── README.md
-└── LICENSE
+**Main folders and files:**
+
+- `data/`
+  - `employee_records.xlsx`
+  - `employee_records.csv`
+  - `weekly_export_report.xlsx`
+  - `weekly_export_report.csv`
+  - `daily_production_report.xlsx`
+  - `daily_production_report.csv`
+
+- `sql/`
+  - `oil_company_database.sql`
+
+- `screenshots/`
+  - `excel/`
+  - `sql/`
+
+- `docs/`
+  - `project_report.docx`
+  - `presentation_script.docx`
+
+- `employee_manager.py`
+- `requirements.txt`
+- `README.md`
+- `LICENSE`
 
 ## Included Files
 
