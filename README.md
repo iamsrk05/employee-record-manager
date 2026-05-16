@@ -19,10 +19,8 @@ A beginner-level employee record management and reporting project developed usin
 - Pandas
 - Git & GitHub
 
-## Folder Structure
 
 ## Folder Structure
-
 employee-record-manager/
 │
 ├── data/
@@ -48,7 +46,6 @@ employee-record-manager/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-
 
 ## Included Files
 
